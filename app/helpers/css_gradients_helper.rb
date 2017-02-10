@@ -1,0 +1,2 @@
+module CssGradientsHelper
+end

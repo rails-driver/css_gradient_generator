@@ -1,0 +1,9 @@
+%div#color-picker
+
+#gradient-sample
+
+= simple_form_for @gradient do |f|
+  = f.hidden_field :color
+  = f.input :name
+  = f.button :submit
+
